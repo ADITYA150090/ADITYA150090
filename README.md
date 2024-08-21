@@ -3,9 +3,13 @@
 💻 Software Developer | 💡 Tech Enthusiast | 🚀 Lifelong Learner
 
 🔭 Currently Studying B.tech in ETC.
+
 🌱 Always exploring new tech stacks, particularly in ROBOTICS and Devlopment.
+
 💬 Ask me about WEB tech or Android.
+
 🎯 Passionate about building impactful solutions and open-source projects.
+
 ⚡ Fun fact: I am international chess player too.
 
 <!---
