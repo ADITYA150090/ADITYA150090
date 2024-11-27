@@ -1,5 +1,4 @@
 
-<img src="https://i.pinimg.com/originals/e5/4a/fa/e54afabd75adb33464e85f2687b43f87.gif" alt="" width="1600" height="400">
 
 
 
@@ -30,9 +29,13 @@
 
 - ⚡ Fun fact **I am chess player too**
 
+
+<img src="https://i.pinimg.com/originals/e5/4a/fa/e54afabd75adb33464e85f2687b43f87.gif" alt="" width="1600" height="400">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya150090&label=Profile%20views&color=0e75b6&style=flat" alt="aditya150090" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya150090" alt="aditya150090" /></a> </p>
+
 
 
 <h3 align="left">Connect with me:</h3>
