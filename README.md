@@ -1,11 +1,14 @@
+
 <img src="https://i.pinimg.com/originals/e5/4a/fa/e54afabd75adb33464e85f2687b43f87.gif" alt="" width="1600" height="400">
+
 
 
 
 
 <h1 align="center">Hi 👋, I'm ADITYA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" height="200" border-radius="50%" src="https://i.pinimg.com/originals/47/20/51/472051c6d88bd2837525520597251d67.gif" style="; width: 400px; height: 400px;">
+<img align="right" alt="Coding" width="400" height="300" src="https://i.pinimg.com/originals/47/20/51/472051c6d88bd2837525520597251d67.gif" >
+
 
 
 
