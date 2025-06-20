@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help with **AI/ML**
 
-- 👨‍💻 All of my projects are available at [https://aditya1000.netlify.app/](https://adityadhawle.dev/)
+- 👨‍💻 All of my projects are available at [https://adityadhawle.dev/](https://adityadhawle.dev/)
 
 - 💬 Ask me about **Frontend, androied**
 
