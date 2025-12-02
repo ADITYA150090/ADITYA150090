@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **Frontend, androied**
 
-- 📫 How to reach me **aditya!592005@gmail.com**
+- 📫 How to reach me **aditya1592005@gmail.com**
 
 - 📄 Know about my experiences [https://aditya1000.netlify.app/](https://aditya1000.netlify.app/)
 
