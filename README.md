@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **Frontend, androied**
 
-- 📫 How to reach me **8055583059**
+- 📫 How to reach me **aditya!592005@gmail.com**
 
 - 📄 Know about my experiences [https://aditya1000.netlify.app/](https://aditya1000.netlify.app/)
 
